@@ -10,9 +10,9 @@
 - Type C: 1 Port
 - Wireless: Intel AX210
 - Bluetooth: Intel AX210
-- Bootloader: Opencore 0.9.2
-- OS: Ventura 13.4.1
-- Installer: Olarila
+- Bootloader: Opencore 0.9.9
+- OS: Ventura 13.6.4
+- Installer: Dortania
 
 Requirement :
 1. Machintos Ventura [Link Here](https://www.olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
@@ -44,5 +44,5 @@ Step :
 11. Happy Flash 😘
 
 Thanks To :
-- Olarila [Link Here](https://www.olarila.com/)
+- Dortania [Link Here](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 - Indonesian Telegram Group [Link Here](https://t.me/HackintoshLover)
